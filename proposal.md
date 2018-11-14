@@ -40,4 +40,7 @@ Please create your proposal in a markdown file called `proposal.md` in the root 
 - Parsing extensible data formats (JSON, XML)
 - Use of spatial vector data (`sf` package) and visualization of spatial data
 - Creation of an R package
+- Expansion of ggplot functions (to include more than default characteristics)
+- Making layout and presentation into secondary output (e.g. .pdf, website) - should enhance presentaiton
+- use lintr to clean code (checks adherence to a given style, syntax errors and possible semantic issues)
 
