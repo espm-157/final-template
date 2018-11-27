@@ -16,7 +16,7 @@ Replicating results of an existing study and exploring the impact of alternative
 Please create your proposal in a markdown file called `proposal.md` in the root directory of the final project repo.  
 
 
-## Preliminary Rubric (additional areas will be added)
+## Project Guidelines
 
 ### Project questions must illustrate all of the following tasks:
 
@@ -44,3 +44,20 @@ Please create your proposal in a markdown file called `proposal.md` in the root 
 - Making layout and presentation into secondary output (e.g. .pdf, website) - should enhance presentaiton
 - use lintr to clean code (checks adherence to a given style, syntax errors and possible semantic issues)
 
+# Final Rubric 30 pts total
+
+ - 5pts Proposal, turned in on time and with team member names, background, dataset, and 3 potential questions.
+
+ - 10pts Polished github repository, including:
+	 -  3pt updated readme with functional travis badge 
+	 -  2pt passing travis build 
+	 -  2pt clean and well formatted output document (html, pdf, or md with associated files). 
+	 -  3pt enough supporting text that we can easily understand the project undertaken.
+	 
+ - 15 pts Project Substance: Objectives, Code, Visualization. Do you meet all of the required project objectives and at least 3 of the supplementary objectives.
+	 - 15pts: exceptional
+	 - 13pts: adequate and complete
+	 - 11pts: adequate 2 questions, meeting 3 supplementary objectives
+	 - 9pts: adequate 2 q, meeting 1-2 supplementary objectives
+	 - 7pts: adequate 1 q, meeting 3 supplementary objectives
+	 - 5pts: adequate 1q, meeting 1-2 supplementary objectives
