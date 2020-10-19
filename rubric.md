@@ -23,7 +23,7 @@ Please create your proposal in a markdown file called `proposal.md` in the root 
 - Data tidying preparation
 - Initial data visualization
 - Use of GitHub
-- Reproducible execution with use of Travis
+- Reproducible execution with use of GitHub Actions
 - RMarkdown writeup, with final submission as a nicely formatted PDF document that includes code and results.
 - Overall clean and clear presentation of repository, code, and explanations.
 
@@ -48,8 +48,8 @@ Please create your proposal in a markdown file called `proposal.md` in the root 
  - 5pts Proposal, turned in on time and with team member names, background, dataset, and 3 potential questions.
 
  - 10pts Polished github repository, including:
-	 -  3pt updated readme with functional travis badge 
-	 -  2pt passing travis build 
+	 -  3pt updated readme with functional gh-actions badge 
+	 -  2pt passing gh-actions build 
 	 -  2pt clean and well formatted output document (html, pdf, or md with associated files). 
 	 -  3pt enough supporting text that we can easily understand the project undertaken.
 	 
