@@ -16,7 +16,7 @@ jobs:
       - name: Render
         shell: Rscript {0}
         run: |-
-          lapply(fs::dir_ls('assignment', glob='*.Rmd', recurse=TRUE), rmarkdown::render, envir = globalenv())
+          lapply(fs::dir_ls('.', glob='*.Rmd', recurse=TRUE), rmarkdown::render, envir = globalenv())
       - name: Commit results
         run: |
           git config --local user.email "actions@github.com"
